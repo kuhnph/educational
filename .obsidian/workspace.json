@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8128f967c077d974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AeroVault/Analytical Mechanics/Chapter 1/03 Practice Problems Chapter 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 Practice Problems Chapter 1"
-            }
-          },
-          {
             "id": "22a56fa09ecc9316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AeroVault/Meta/MarkdownCheat.md.md",
+                "file": "AeroVault/Nonlinear Systems/Chapter 1.5/01 2.1 Qualitative Behavior of Linear Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MarkdownCheat.md"
+              "title": "01 2.1 Qualitative Behavior of Linear Systems"
             }
           }
         ]
@@ -199,10 +185,29 @@
   },
   "active": "d9c80045421402ae",
   "lastOpenFiles": [
-    "books/Nonlinear systems (2002, Prentice Hall).djvu",
-    "AeroVault/Analytical Mechanics/Chapter 1/04 Flash Notes.md",
+    "AeroVault/Nonlinear Systems/Computing",
+    "AeroVault/Nonlinear Systems/Chapter 1/04 Practice Problems.md",
+    "AeroVault/Nonlinear Systems/Chapter 1.5/01 2.1 Qualitative Behavior of Linear Systems.md",
+    "AeroVault/Nonlinear Systems/Chapter 1.5",
+    "Pasted image 20260627140157.png",
+    "Pasted image 20260627134540.png",
+    "Pasted image 20260627131424.png",
+    "Pasted image 20260627125559.png",
+    "AeroVault/Meta/MarkdownCheat.md.md",
+    "books/Calculus Early Transcendentals-Cengage Learning (2020).pdf",
+    "Pasted image 20260627123944.png",
+    "AeroVault/Nonlinear Systems/Chapter 1/02 1.2 Examples.md",
+    "AeroVault/Nonlinear Systems/Chapter 1/01 1.1 Nonlinear Models and Nonlinear Phenomena.md",
     "AeroVault/Analytical Mechanics/Chapter 1/03 Practice Problems Chapter 1.md",
     "AeroVault/Analytical Mechanics/Chapter 1/02 TransportTheorem.md.md",
+    "AeroVault/Nonlinear Systems/Chapter 1/03 Adaptive Control.md",
+    "Pasted image 20260626174227.png",
+    "Pasted image 20260626164824.png",
+    "AeroVault/Analytical Mechanics/Chapter 1/04 Quick Notes.md",
+    "books/Nonlinear systems (2002.pdf",
+    "AeroVault/Nonlinear Systems/Chapter 1",
+    "Untitled.base",
+    "books/Nonlinear systems (2002, Prentice Hall).djvu",
     "AeroVault/Analytical Mechanics/Chapter 1/01 Spherical and Cylindrical coordinates.md",
     "AeroVault/Nonlinear Systems",
     "AeroVault/Linear Algebra",
@@ -211,10 +216,7 @@
     "Pasted image 20260619201719.png",
     "AeroVault/Fuzzy Logic/ChatGPT review.md",
     "AeroVault/Fuzzy Logic/Fuzzy Asteroids.md",
-    "AeroVault/Meta/MarkdownCheat.md.md",
     "AeroVault/Meta",
-    "Untitled.md",
-    "AeroVault/Analytical Mechanics",
-    "AeroVault"
+    "Untitled.md"
   ]
 }
