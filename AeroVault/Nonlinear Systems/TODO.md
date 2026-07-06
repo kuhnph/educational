@@ -1,0 +1,2 @@
+- [ ] More chapter 1 practice problems
+- [ ] Write code to perform the isocline method

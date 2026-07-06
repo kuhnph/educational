@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AeroVault/Nonlinear Systems/Chapter 1.5/01 2.1 Qualitative Behavior of Linear Systems.md",
+                "file": "AeroVault/Nonlinear Systems/Chapter 1.5/01- 2.1 Qualitative Behavior of Linear Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 2.1 Qualitative Behavior of Linear Systems"
+              "title": "01- 2.1 Qualitative Behavior of Linear Systems"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9c80045421402ae",
+  "active": "22a56fa09ecc9316",
   "lastOpenFiles": [
+    "AeroVault/Nonlinear Systems/TODO.md",
+    "AeroVault/Nonlinear Systems/Chapter 1.5/01- 2.1 Qualitative Behavior of Linear Systems.md",
     "AeroVault/Nonlinear Systems/Computing",
     "AeroVault/Nonlinear Systems/Chapter 1/04 Practice Problems.md",
-    "AeroVault/Nonlinear Systems/Chapter 1.5/01 2.1 Qualitative Behavior of Linear Systems.md",
     "AeroVault/Nonlinear Systems/Chapter 1.5",
     "Pasted image 20260627140157.png",
     "Pasted image 20260627134540.png",
@@ -216,7 +217,6 @@
     "Pasted image 20260619201719.png",
     "AeroVault/Fuzzy Logic/ChatGPT review.md",
     "AeroVault/Fuzzy Logic/Fuzzy Asteroids.md",
-    "AeroVault/Meta",
     "Untitled.md"
   ]
 }
