@@ -20,6 +20,7 @@ $$
 $$
 
 The nonlinear plant model for the MAV system is defined as:
+
 $$
 \boxed{
 \dot{\boldsymbol{\omega}} = \mathbf J^{-1} \left[ \mathbf M_0(\mathbf x) + \mathbf B_M(\mathbf x)\mathbf u_{rot} - \boldsymbol{\omega} \times (\mathbf J\boldsymbol{\omega}) \right]
