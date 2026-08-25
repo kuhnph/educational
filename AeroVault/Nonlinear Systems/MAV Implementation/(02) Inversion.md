@@ -21,45 +21,11 @@ $$
 
 The nonlinear plant model for the MAV system is defined as:
 
-$$
-\boxed{
-\dot{\boldsymbol{\omega}}
-=
-\mathbf{J}^{-1}
-\left[
-\mathbf{M}_0(\mathbf{x})
-+
-\mathbf{B}_M(\mathbf{x})\mathbf{u}_{rot}
--
-\boldsymbol{\omega}
-\times
-(\mathbf{J}\boldsymbol{\omega})
-\right]
-}
-$$
+$$\boxed{\dot{\boldsymbol{\omega}}=\mathbf{J}^{-1}\left[\mathbf{M}_0(\mathbf{x})+\mathbf{B}_M(\mathbf{x})\mathbf{u}_{rot}-\boldsymbol{\omega}\times(\mathbf{J}\boldsymbol{\omega})\right]}$$
 
-$$
-\boxed{
-\mathbf{f}_{\omega}(\mathbf{x})
-=
-\mathbf{J}^{-1}
-\left[
-\mathbf{M}_0(\mathbf{x})
--
-\boldsymbol{\omega}
-\times
-(\mathbf{J}\boldsymbol{\omega})
-\right]
-}
-$$
+$$\boxed{\mathbf{f}_{\omega}(\mathbf{x})=\mathbf{J}^{-1}\left[\mathbf{M}_0(\mathbf{x})-\boldsymbol{\omega}\times(\mathbf{J}\boldsymbol{\omega})\right]}$$
 
-$$
-\boxed{
-\mathbf{G}_{\omega}(\mathbf{x})
-=
-\mathbf{J}^{-1}\mathbf{B}_M(\mathbf{x})
-}
-$$
+$$\boxed{\mathbf{G}_{\omega}(\mathbf{x})=\mathbf{J}^{-1}\mathbf{B}_M(\mathbf{x})}$$
 ---
 # Differentiating the output
 
