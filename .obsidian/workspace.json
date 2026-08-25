@@ -49,7 +49,8 @@
               "title": "MarkdownCheat.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "22a56fa09ecc9316",
+  "active": "5d4be18f7076a2c7",
   "lastOpenFiles": [
-    "AeroVault/Nonlinear Systems/MAV Implementation/(02) Inversion.md",
     "AeroVault/Nonlinear Systems/MAV Implementation/(01) Plant.md",
+    "AeroVault/Nonlinear Systems/MAV Implementation/(02) Inversion.md",
     "AeroVault/Meta/MarkdownCheat.md.md",
     "AeroVault/Nonlinear Systems/TODO.md",
     "Acquisitions.md",

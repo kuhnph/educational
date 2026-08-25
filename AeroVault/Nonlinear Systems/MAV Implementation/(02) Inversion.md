@@ -10,7 +10,9 @@ $$
 
 The DI controller for angular rates will have an output:
 $$
-\boxed{ y= \omega= \begin{bmatrix} p\\q\\r \end{bmatrix} }
+\boxed{ y= \omega= \begin{bmatrix} p\\
+q\\
+r \end{bmatrix} }
 $$
 And a control:
 $$
