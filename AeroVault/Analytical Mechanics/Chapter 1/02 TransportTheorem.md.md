@@ -48,7 +48,8 @@ The inertial observer sees:
 	This is just the **Transport Term**. The translation term is the other one.
 ## Actual Derivation
 - Computing the velocity of a particle mar involve a time *varying basis* vector
-- #### **The Transport Theorem allows one to take the derivative of a vector with respect to one coordinate system while it has its components taken in another system**
+-  **The Transport Theorem allows one to take the derivative of a vector with respect to one coordinate system while it has its components taken in another system**
+
 Let $\mathcal{N}$ be an inertial frame represented by $\{\hat{n_1},\hat{n_2},\hat{n_3}\}$ and $\mathcal{B}$ be a local body frame represented by $\{\hat{b_1},\hat{b_2},\hat{b_3}\}$ where the origin is coincident. 
 
 - Write $\mathbf{r}$ in the $\mathcal{B}$ basis as:
