@@ -5,7 +5,6 @@ $$ \eta = \begin{bmatrix} \phi \\ \theta \\ \psi \end{bmatrix}$$
 - $\phi$ = roll angle
 - $\theta$ = pitch angle
 - $\psi$ = yaw angle
-
 Call $T(\phi,\theta)$  the rotation matrix to back out Euler angles from p, q, r
 
 $$ \boxed{ T(\phi,\theta) = \begin{bmatrix} 1 & \sin\phi\tan\theta & \cos\phi\tan\theta\\ 0 & \cos\phi & -\sin\phi\\ 0 & \sin\phi\sec\theta & \cos\phi\sec\theta \end{bmatrix} } $$
